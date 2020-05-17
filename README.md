@@ -8,7 +8,8 @@ the licence is public thus you can fork the project  and make changes to it.
 
 #link to live site on GitHub Pages
 
-https://fkmutua.github.io/felix-mutua-ip/
+https://github.com/fkmutua/FELIX-MUTUA-IP
+
 
 #copyright and license information
 
