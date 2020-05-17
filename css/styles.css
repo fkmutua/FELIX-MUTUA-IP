@@ -16,12 +16,12 @@
       margin-left: 50px;
       margin-top: 5px;
 
-  background-image: url(my-images/felix.jpeg);
-  width: 400px;
-  height: 500px;
-  background-repeat: no-repeat;
-  margin-left: 160px;
-  margin-top: 40px;
+      background-image: url(my-images/felix.jpeg);
+      width: 400px;
+      height: 500px;
+      background-repeat: no-repeat;
+      margin-left: 160px;
+      margin-top: 40px;
 >>>>>>> master
 }
 .middle{
@@ -36,4 +36,13 @@
       font-size: 40;
 
 }
+
+.header{
+       text-align: center;
+       font-size: 40;
+       font-size: 40 px;
+       color: #F3A90A;
+       text-align: center;
+}
+
 
