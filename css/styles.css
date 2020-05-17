@@ -1,9 +1,14 @@
-   h2{"background-image: url('my-images/felix.jpeg')";
-    width: 400px;
-    height: 200px;
-    background-repeat: no-repeat;
-    margin-left: 160px;
-    margin-top: 40px;
+.top{
+      background-color: #0A33F3
+      font-size: 50 px;
+      text-align: center;
+      color: blue;     
 }
-    
-
+.felix-image{
+  background-image: url(my-images/felix.jpeg);
+  width: 500px;
+  height: 400px;
+  background-repeat: no-repeat;
+  margin-left: 160px;
+  margin-top: 40px;
+}
