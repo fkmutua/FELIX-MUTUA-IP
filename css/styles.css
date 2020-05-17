@@ -13,10 +13,9 @@
       background-repeat: no-repeat;
       margin-left: 160px;
       margin-top: 40px;
-      margin-left: 60px;
-      margin-top: 10px;
+      margin-left: 50px;
+      margin-top: 5px;
 
-=======
   background-image: url(my-images/felix.jpeg);
   width: 400px;
   height: 500px;
@@ -32,5 +31,9 @@
       text-decoration: underline;
       text-transform: uppercase
 }
+.felix-description{ 
+      text-align: center;
+      font-size: 40;
 
+}
 
