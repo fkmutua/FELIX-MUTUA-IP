@@ -3,7 +3,7 @@
       background-color: #0A33F3
       font-size: 50 px;
       text-align: center;
-      color: blue;     
+      color: #C11F1C;    
 }
 .felix-image{
 <<<<<<< HEAD
@@ -49,7 +49,9 @@
 }
 .Bottom-layout{
        margin-left: 700px;
-       color: #F32A0A
+       background-color:#1CC15C;
+       padding-left: 20px;
+       padding-right: 20px
 
 }
               
